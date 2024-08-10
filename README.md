@@ -1,4 +1,4 @@
-> ** An Extensive Study of Dell's LBO from Investors
+** An Extensive Study of Dell's LBO from Investors
 
 <table border="0" cellpadding="0" cellspacing="0" width="970" style="">
   <thead>
