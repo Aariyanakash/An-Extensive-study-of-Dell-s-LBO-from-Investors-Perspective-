@@ -7,6 +7,23 @@
 
 > **Year: 2022**
 
+<table border="0" cellpadding="0" cellspacing="0" width="970" style="">
+  <thead>
+    <tr height="21" style="height: 16pt;">
+      <th>Document Name</th>
+      <th>Document Description</th>
+      <th>Reference Link</th>
+    </tr>
+  </thead><colgroup><col width="185" style="width: 139pt;"><col width="429" style="width: 322pt;"><col width="356" style="width: 267pt;"></colgroup>
+  <tbody>
+    <tr height="21" style="height: 16pt;">
+      <td height="21" class="xl65" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 0.5pt solid windowtext; border-image: initial; text-wrap: nowrap; height: 16pt;">DELLS LBO.xlsx</td>
+      <td class="xl65" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: none; border-image: initial; text-wrap: nowrap;"><div data-message-author-role="assistant" data-message-id="d0bbe827-a4ad-4431-b7f3-93c5d7defef4" dir="auto">This dissertation examines Dell's successful LBO from an investor's perspective, focusing on the return on investment (ROR) and settlement outcomes for equity investors. Through a detailed LBO model and analysis of different holding periods, it assesses whether the returns met investor expectations and evaluates the overall success of the deal.</div></td>
+      <td class="xl65" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: none; border-image: initial; text-wrap: nowrap;"><a href="https://docs.google.com/spreadsheets/d/1ajZUbjecokDVzMbSUTNy6hsoeiYpPrsk/edit?usp=sharing&ouid=101120254477657136618&rtpof=true&sd=true"><img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="BFA Excel" width="100" height="50">
+</a></td>
+    </tr>
+  </tbody>
+</table>
 1.  **ABSTRACT**
 
 We all are aware that Dell's LBO is one of the successful LBO of all
