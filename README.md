@@ -1,11 +1,4 @@
-> **Dissertation Title: An Extensive Study of Dell's LBO from Investors
-> Perspective**
-
-**Master title: MSc Finance and Investments**
-
-**Name: Arun Akash Jawahar**
-
-> **Year: 2022**
+> ** An Extensive Study of Dell's LBO from Investors
 
 <table border="0" cellpadding="0" cellspacing="0" width="970" style="">
   <thead>
@@ -24,7 +17,7 @@
     </tr>
   </tbody>
 </table>
-1.  **ABSTRACT**
+2.  **ABSTRACT**
 
 We all are aware that Dell's LBO is one of the successful LBO of all
 time, The main objective of this dissertation is viewing the whole LBO
