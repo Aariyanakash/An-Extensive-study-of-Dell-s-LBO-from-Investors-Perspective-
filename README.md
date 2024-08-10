@@ -1,12 +1,4 @@
-![Shape Description automatically generated with medium
-confidence](./media/image1.png){width="6.094444444444444in"
-height="1.09375in"}
-
-![A picture containing text, outdoor, sign Description automatically
-generated](./media/image2.png){width="6.1930555555555555in"
-height="0.8645833333333334in"}
-
-> **Dissertation Title: An Extensive study of Dell's LBO from Investors
+> **Dissertation Title: An Extensive Study of Dell's LBO from Investors
 > Perspective**
 
 **Master title: MSc Finance and Investments**
